@@ -1,4 +1,4 @@
-public class supplyCategory extends itemCategory {
+public class supplyCategory implements itemCategory {
     // Additional attributes specific to supplies, if needed
 
     // Constructor, getters, and setters
